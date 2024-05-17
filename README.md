@@ -1,4 +1,4 @@
-# My Magnifier Project
+# MagPy
 
 This project is a magnifier application that displays a magnified view of the area around the mouse cursor.
 
@@ -7,7 +7,11 @@ This project is a magnifier application that displays a magnified view of the ar
 - 3x magnification
 - 16:9 aspect ratio window (800x450)
 - Random repositioning to avoid mouse overlap
-- Manual window movement with a handle
+
+## Prerequisites
+
+- A CUDA-capable GPU
+- CUDA toolkit and drivers installed
 
 ## Installation
 
@@ -18,7 +22,7 @@ This project is a magnifier application that displays a magnified view of the ar
 
 1. Run the `mag-gpu.exe` file.
 2. Move your mouse around to see the magnified view.
-3. Use the handle on the side of the window to manually reposition the magnifier.
+3. To exit, just right click and close the window in the taskbar.
 
 ## Building from Source
 
