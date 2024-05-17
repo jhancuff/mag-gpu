@@ -10,6 +10,10 @@ This project is a magnifier application that displays a magnified view of the ar
 - Random repositioning to avoid mouse overlap
 - Always on top
 
+## Prerequisites
+ - A CUDA 11 or greater enabled GPU
+ - CUDA toolkit installed.
+
 ## Installation
 
 1. Download the archive from the [releases](https://github.com/your-username/your-repo-name/releases) page.
