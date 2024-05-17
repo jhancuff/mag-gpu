@@ -4,21 +4,26 @@ This project is a magnifier application that displays a magnified view of the ar
 
 ## Features
 
-- 3x magnification
+- User configurable constants in script; defaults below.
+- 3x magnification 
 - 16:9 aspect ratio window (800x450)
 - Random repositioning to avoid mouse overlap
-- Manual window movement with a handle
+- Always on top
 
 ## Installation
 
-1. Download the executable from the [releases](https://github.com/your-username/your-repo-name/releases) page.
-2. Run the executable on your Windows machine.
+1. Download the archive from the [releases](https://github.com/your-username/your-repo-name/releases) page.
+2. Unzip anywhere.
+3. Run the executable on your Windows machine.
 
 ## Usage
 
 1. Run the `mag-gpu.exe` file.
 2. Move your mouse around to see the magnified view.
-3. Use the handle on the side of the window to manually reposition the magnifier.
+3. Push the mouse into the window to have it dodge your cursor.
+
+## Demonstration
+[![Watch the video](https://img.youtube.com/vi/_GyVdYprzC0/maxresdefault.jpg)](https://www.youtube.com/watch?v=_GyVdYprzC0)
 
 ## Building from Source
 
