@@ -1,0 +1,6 @@
+numpy
+opencv-python-headless
+pycuda
+PyQt5
+mss
+EOL
