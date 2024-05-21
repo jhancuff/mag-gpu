@@ -1,6 +1,6 @@
 numpy
-opencv-python-headless
-pycuda
-PyQt5
+opencv-python
 mss
-EOL
+pycuda
+pyqt5
+pynput
