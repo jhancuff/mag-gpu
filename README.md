@@ -19,7 +19,7 @@ This project is a magnifier application that displays a magnified view of the ar
 
 ## Installation
 
-1. Download the archive from the [releases](https://github.com/your-username/your-repo-name/releases) page.
+1. Download the archive from the [releases](https://github.com/jhancuff/mag-gpu/releases) page.
 2. Unzip anywhere.
 3. Run the executable on your Windows machine.
 
@@ -31,7 +31,7 @@ This project is a magnifier application that displays a magnified view of the ar
 4. The magnifier window will automatically hide after 3 seconds of inactivity and reappear when the mouse is moved.
 
 ## Demonstration
-[![Watch the video](https://img.youtube.com/vi/_GyVdYprzC0/maxresdefault.jpg)](https://www.youtube.com/watch?v=_GyVdYprzC0)
+[![Watch the video](https://img.youtube.com/vi/33MllWdQwxo/maxresdefault.jpg)](https://www.youtube.com/watch?v=33MllWdQwxo)
 
 ## Building from Source
 
